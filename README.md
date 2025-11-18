@@ -1,8 +1,6 @@
 # 3d-cross-memory-system
 三维十字记忆体 - 基于空间-时间-语义三维协同的智能文件记忆系统 | 技术原理公开，代码将于2030年开源
-好的！这是专门为GitHub仓库准备的README文件：
 
-```markdown
 # 三维十字记忆体 (3D Cross Memory System)
 
 ![License Status](https://img.shields.io/badge/技术原理-公开防御-blue)
