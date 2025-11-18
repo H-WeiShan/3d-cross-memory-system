@@ -216,12 +216,12 @@ memory_system.associative_restore("src/main.py")
 ### 技术交流
 - **GitHub Discussions**：[技术讨论区]()
 - **问题反馈**：[GitHub Issues]()
-- **邮箱联系**：tech-committee@3d-memory-system.org
+- **邮箱联系**：1947336011@qq.com
 
 ### 社区
 -  [项目官网](https://github.com/your-username/3d-cross-memory-system)（当前仓库）
 -  [技术交流群]（可通过Discussions参与）
--  [学术合作]：research@3d-memory-system.org
+-  [学术合作]：1947336011@qq.com
 
 ### 核心团队
 - **技术委员会** - 架构设计与算法研发
